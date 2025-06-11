@@ -1,8 +1,8 @@
+reportlab==3.6.12
 streamlit
 pandas
 PyMuPDF
-spacy
 pdfplumber
 python-docx
+spacy
 openai
-reportlab
