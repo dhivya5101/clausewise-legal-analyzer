@@ -20,6 +20,7 @@ ClauseWise is an AI-powered tool to analyze legal documents like NDAs or contrac
 ## 🛠️ How to Run
 
 streamlit run app/viewer.py
+https://drive.google.com/file/d/1zZvmVz4FMVoeiOlqCJ80eAliMh1s3aKK/view?usp=drive_link
 
 ## 📁 Folder Structure
 
