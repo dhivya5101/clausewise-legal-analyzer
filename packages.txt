@@ -1,2 +1,4 @@
 libfreetype6-dev
 libxft-dev
+build-essential
+python3-dev
