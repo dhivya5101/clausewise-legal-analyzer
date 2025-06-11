@@ -1,0 +1,13 @@
+You are a legal analyst AI. Given the following clause from a legal contract, identify the clause type (e.g., Termination, Non-Compete, Auto-Renewal, IP Ownership), and explain it in simple English.
+
+Also, identify if it has any legal risks or red flags based on power imbalance or hidden conditions.
+
+Format:
+- Clause Type: [Label]
+- Summary: [Plain English Summary]
+- Risk Flag: [Yes/No] + Reason
+
+Clause:
+"""
+[PASTE CLAUSE HERE]
+"""

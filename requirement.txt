@@ -1,0 +1,7 @@
+streamlit
+pandas
+PyMuPDF
+spacy
+pdfplumber
+python-docx
+openai
